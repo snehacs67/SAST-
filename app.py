@@ -12,8 +12,8 @@ table_name = 'Bitcoin_price_store'
 
 # API endpoint for Bitcoin price
 api_url = 'https://api.coinbase.com/v2/prices/btc-usd/spot'
-api_key = '123456789'
-api_key = 'Hello'
+api_key = "123456789"
+api_key = "Hello"
 
 # Get current time in IST
 ist = pytz.timezone('Asia/Kolkata')
